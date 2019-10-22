@@ -1,3 +1,4 @@
+package Test_ToDoList;
 //import org.junit.jupiter.api.Test;
 //import static org.junit.jupiter.api.Assertions.assertEquals;
 //import static org.junit.Assert.assertEquals;
@@ -9,6 +10,7 @@
         // return a+b;
    // }
 //}
+import main.app.*;
 
 import static org.junit.Assert.assertEquals;
 
@@ -21,7 +23,7 @@ import org.junit.Test;
 
 public class ToDoListTest {
 
-    ToDoList toDoList;
+    private ToDoList toDoList;
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
