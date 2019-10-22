@@ -1,3 +1,4 @@
+package main.app;
 
 import java.text.ParseException;
 public class Main {
@@ -6,3 +7,4 @@ public class Main {
         menu.mainMenu();
     }
 }
+

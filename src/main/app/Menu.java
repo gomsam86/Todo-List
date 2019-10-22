@@ -1,3 +1,4 @@
+package main.app;
 
 import java.text.ParseException;
         import java.util.Scanner;
@@ -72,6 +73,6 @@ public class Menu {
         System.out.println("2 - Mark as done ");
         System.out.println("3 - Remove");
         System.out.println("4 - Back to main menu ");
-        System.out.print("\nSelect from the menu:  ");
+        System.out.print("\n Select from the menu:  ");
     }
 }
