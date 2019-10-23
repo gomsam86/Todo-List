@@ -77,4 +77,8 @@ public class ToDoList
             }
         }
     }
+
+    public List<TaskItem> getList() {
+        return taskItemList;
+    }
 }
