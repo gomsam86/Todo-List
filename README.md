@@ -31,7 +31,6 @@ XML file
 The XML file structure looks similar to this:
 
 ---
-<?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
