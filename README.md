@@ -29,6 +29,8 @@ The user can remove the task by task id
 XML file
 
 The XML file structure looks similar to this:
+
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -68,3 +70,5 @@ The XML file structure looks similar to this:
     </orderEntry>
   </component>
 </module>
+
+---
